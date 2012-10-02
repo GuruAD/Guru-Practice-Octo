@@ -1,4 +1,6 @@
 Guru-Practice-Octo
 ==================
 
-Practice
+This is a practice
+Trying this out.
+Will change in time.
